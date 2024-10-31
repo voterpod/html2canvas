@@ -7,7 +7,14 @@ html2canvas
 ![CI](https://github.com/niklasvh/html2canvas/workflows/CI/badge.svg?branch=master)
 [![NPM Downloads](https://img.shields.io/npm/dm/html2canvas.svg)](https://www.npmjs.org/package/html2canvas)
 [![NPM Version](https://img.shields.io/npm/v/html2canvas.svg)](https://www.npmjs.org/package/html2canvas)
-
+- https://medium.com/@AdPrintify
+- https://medium.com/@AdPrintify/-643372c1af5e
+- https://medium.com/@AdPrintify/goats-make-me-happy-embracing-quirkiness-and-the-joys-of-animal-love-72a4ba1516f8
+- https://medium.com/@AdPrintify/james-bond-island-phang-nga-bay-thailand-13d878e5b194
+- https://medium.com/@AdPrintify/mom-life-the-t-shirt-that-became-a-movement-a975464dae20
+- https://medium.com/@AdPrintify/royal-barge-procession-700-years-of-thai-unity-tradition-and-artistry-in-celebrating-national-c5f1477e1896
+- https://medium.com/@AdPrintify/the-icu-nurse-tee-honor-dedication-and-the-heart-of-critical-care-73c35ebb2046
+- https://medium.com/@AdPrintify/turning-glass-into-art-the-power-of-creative-superpowers-f2a27be3f1b5
 #### JavaScript HTML renderer ####
 
  The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser. The screenshot is based on the DOM and as such may not be 100% accurate to the real representation as it does not make an actual screenshot, but builds the screenshot based on the information available on the page.
